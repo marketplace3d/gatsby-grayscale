@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Grayscale', // <title>
+  siteTitle: 'Marketplace 3D', // <title>
   manifestName: 'Grayscale',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-grayscale/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
+  heading: 'Marketplace 3D',
   subHeading: 'Full time Web Developer. Part time Open source contributor  ',
 
   // social
